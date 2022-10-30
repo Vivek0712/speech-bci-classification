@@ -23,3 +23,4 @@ RESULTS:
 PCA + AutoML	|PCA, MinMaxScaler, ExtremeRandomTrees |	41.31%	| 0.03711 |
 CSP + LDA| 	CSP + LDA	| 52.15%	| 0.5215|
 CSP + AUTOML |CSP,TruncatedSVDWrapper,XGBoostClassifier| 	79.45%	| 0.7933 |
+
