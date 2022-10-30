@@ -1,5 +1,11 @@
-# speech-bci-classification
-This Project is part of NTX Hackathon 2022
+# Differentiating  brain activity during imagined speech, pronounced speech and visualised speech using non-invasive methods
+## Team NexStem
+This Project is part of NTX Hackathon 2022 
+
+SOLUTION: 
+Presentation: https://docs.google.com/presentation/d/1btod_iLWuNxCgpAU0unblp_4rFqKfrCQpjml2-tubrQ/edit#slide=id.p
+Video Pitch: https://www.youtube.com/watch?v=HhzQKsM4404
+
 
 Original Code and Dataset: https://github.com/N-Nieto/Inner_Speech_Dataset/
 
